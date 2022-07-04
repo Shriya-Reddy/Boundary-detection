@@ -15,7 +15,7 @@ In this I calcualted the emission probabilities by taking edge strength of a coo
 
 Image 16 Air Ice boundary
 
-<img src = "part2/image_results/Simple-16/air_ice_output.png">
+<img src = "image_results/Simple-16/air_ice_output.png">
 
 Image 16 Ice rock boundary
 
