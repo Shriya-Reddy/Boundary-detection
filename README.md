@@ -19,15 +19,15 @@ Image 16 Air Ice boundary
 
 Image 16 Ice rock boundary
 
-<img src = "part2/image_results/Simple-16/ice_rock_output.png">
+<img src = "image_results/Simple-16/ice_rock_output.png">
 
 Image 30 Air Ice boundary
 
-<img src = "part2/image_results/Simple-30/air_ice_output.png">
+<img src = "image_results/Simple-30/air_ice_output.png">
 
 Image 30 Ice rock boundary
 
-<img src = "part2/image_results/Simple-30/ice_rock_output.png">
+<img src = "image_results/Simple-30/ice_rock_output.png">
 
 ### Approach 2 - Viterbi:
 In this approach, Viterbi algorithm is used to find boundary. Transition probabily for viterbi is probability of going from  all rows of previous column to current row of current coulumn. 
@@ -37,20 +37,20 @@ Air Ice boundary and Ice rock boundary is calculated in similar manner of bayes 
 
 Image 09 Air Ice boundary
 
-<img src = "part2/image_results/Viterbi 9/air_ice_output.png">
+<img src = "image_results/Viterbi 9/air_ice_output.png">
 
 
 Image 09 Ice rock boundary
 
-<img src = "part2/image_results/Viterbi 9/ice_rock_output.png">
+<img src = "image_results/Viterbi 9/ice_rock_output.png">
 
 Image 31 Air Ice boundary
 
-<img src = "part2/image_results/Viterbi 31/air_ice_output.png">
+<img src = "image_results/Viterbi 31/air_ice_output.png">
 
 Image 31 Ice rock boundary
 
-<img src = "part2/image_results/Viterbi 31/ice_rock_output.png">
+<img src = "image_results/Viterbi 31/ice_rock_output.png">
 
 
 
@@ -64,16 +64,16 @@ Here, Human input coordinates that definitely lie air ice boundary and ice rock 
 This emission probability table is used calculate viterbi table. Air ice and ice rock boundary is calculated as as in viterbi approach.
 Image 16 Air Ice boundary
 
-<img src = "part2/image_results/Human feedback 16/air_ice_output.png">
+<img src = "image_results/Human feedback 16/air_ice_output.png">
 
 Image 16 Ice rock boundary
 
-<img src = "part2/image_results/Human feedback 16/ice_rock_output.png">
+<img src = "image_results/Human feedback 16/ice_rock_output.png">
 
 Image 31 Air Ice boundary
 
-<img src = "part2/image_results/Human feedback 31/air_ice_output.png">
+<img src = "image_results/Human feedback 31/air_ice_output.png">
 
 Image 31 Ice rock boundary
 
-<img src = "part2/image_results/Human feedback 31/ice_rock_output.png">
+<img src = "image_results/Human feedback 31/ice_rock_output.png">
